@@ -1,0 +1,8 @@
+{
+  "repo" : "atuowgo/picBedStorage",
+  "branch" : "master",
+  "token" : "",
+  "port" : "28380",
+  "url" : "/upload",
+  "paramName" : "file"
+}
